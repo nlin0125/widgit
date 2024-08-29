@@ -1,1 +1,2 @@
 feature 4 text file
+Add a line from remote
