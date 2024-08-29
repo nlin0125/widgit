@@ -1,2 +1,3 @@
-feature 4 text file
+Feature 4 text file
 Add another line from local
+Add a line from remote
