@@ -1,3 +1,4 @@
 Feature 4 text file
 Add another line from local
 Add a line from remote
+change from feature4 branch
